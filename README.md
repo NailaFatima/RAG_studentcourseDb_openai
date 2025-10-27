@@ -132,7 +132,7 @@ spring.ai.openai.chat.options.model=gpt-4o-mini
 # --- Database ---
 spring.datasource.url=jdbc:mysql://localhost:3306/student_course_db
 spring.datasource.username=root
-spring.datasource.password=root
+spring.datasource.password=******
 ```
 
 #### **Run Spring Boot**
